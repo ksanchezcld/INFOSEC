@@ -1,0 +1,1 @@
+En esta area va todo lo relacionado con seguridad de la Informacion en general. Politicas, procedimientos, informes, articulos.
